@@ -1,1 +1,3 @@
 # sospeter-machera
+NAME: SOSPETER MACHERA 
+REG NO: 24101123130048
